@@ -1,0 +1,164 @@
+# mk-archive-week-of-20231103
+
+
+
+
+- document last 2 weeks for documentation things this week?
+- timeline.js into next app
+- minute by minute transcription (set up in garage too)
+- week by week hackmd do-your-work
+- week by week hackmd show-your-work
+- plan next screen purchase
+- ILPs for all?
+    - graphics
+        - eventLab branding
+    - av
+        - how-to something?
+    - event
+        - all-the-events
+    - code
+        - next-print-all-the-things
+    - reality
+        - 8K render of some of the other stuff? script driven?
+- need to be ready for TDM and ENGLISH
+    - mainly bot at this point? print in AM for CY?
+- system
+    - detach amxs
+    - reroute 8x amxs cables to hyperdecks and a4k (or a4k from hypers?)
+- list of cable tasks:
+    - detach and clean everything
+    - reroute 8x amxs (mk)
+    - everything off the ground in control room
+    - 2 racks moved to black wall
+    - current rack moved left? or just have a rack above each studio station?
+    - order additional long thunderbolt 4 cables for studios on black wall
+    - room for additional ins to HUB2
+        - constellation 1ME
+        - a4k mv2?
+        - mv4.a
+        - mv4.b
+- other tasks for people monday
+    - iMac pro on tall 50" back where it was
+    - no ethernet coming from musicroom wall
+    - batteries for lights for the afternoon
+    - print CY materials
+- workshop reporting
+- system recording to hyperdecks through a8k, a4k and direct
+- 4x obs recording
+- moment-bot integration
+- pull message history for single-serving reports (smarter queries)
+- `/hackmd` with function calling and airtable?
+- [mk-tdm98-plan](/B7lAuOHQQA6BVTT8MIImGg)
+- [mk-workshop-reporting-plan](/oYA11oiNSzm2rcM-kze7_A)
+- at home
+    - plan music room
+    - plan main cam station
+    - integrate watch dictation into system
+    - obsidian too
+- prep ability to move stage quickly
+- back and forth from large projector screen to new large OLEDs
+- virtual production
+- recycle all cardboard sculpturally
+- laser-cutter
+- daily startup scripts for production machines (mounting bcloud but not yet 10_01--let's do more tests)
+- think about moving iMac Pro to new location
+- hanging cardboard where greenscreen is now
+- recording position under snake
+- rose fabrics
+    - [rose article on keying in their two colors](https://www.blog.rosebrand.com/post/when-to-use-digital-key-vs-chroma-key)
+    - [green chroma spandex](https://www.rosebrand.com/product793/92-Keying-Spandex-NFR.aspx?cid=165&idx=1&tid=1&info=Stretch%2bFabrics)
+    - [cheaper 12% lycra color stretch](https://www.rosebrand.com/product1998/122-Tendo-IFR.aspx?cid=165&idx=1&tid=1&info=Stretch%2bFabrics)
+- hanging equipment
+    - string, thread, twine, rope
+    - chain
+    - cable
+    - recycled cable
+    - rings
+    - braided of the above
+- more tripod heads and high-hats or equiv
+- more cams mounted overhead
+- high and wide angles in key spaces
+- stable mics for zones
+- dynamics everywhere
+- recording station in control room
+    - overhead x2
+    - pod mics hanging from arms
+    - light
+- start up paper capture again
+- ocr for cards
+- new uline order
+    - shelves?
+    - bins
+    - cardboard?
+    - strapping
+- bring panasonics into the system
+- order bm box cam
+- when ursa is updated, order
+- new mac air 15"
+- function calling proof of concept
+    - update tasks on paper
+- NEED a cv solution to identify when card is stable for x seconds (return seconds, return span---match span with talking span and card text with spoken text)
+    - really this is a do-it-all API
+    - if we have this, we have everything
+- will order some of the [995 studio cam minis](https://www.bhphotovideo.com/c/product/1787638-REG/blackmagic_design_micro_studio_camera_4k.html/overview) when they come out, even though ethernet only is what we want.
+- mv config
+    - and be sure to make this editable in airtable
+    - 3 small studio
+    - 2 outside small studio
+    - 3 main table
+    - 2 stage
+    - 2 computers
+    - 2 side of stage
+    - 1 puppet corner
+    - 3 control room
+    - maybe 4 c200s
+    - maybe 2 additional graphics machines in control room
+- more gear for charrise
+- function calling in the api
+- prep for map workshop
+    - mount projectors
+    - print basemaps
+    - print concept cards/buttons
+    - get out stacks of supplies
+- need to get moment bot to summarize by the minute
+    - save minutes to a base
+    - query last 5 for summary
+    - and in each have a meta summary for context
+- think quick about the bot group?
+    - elle-l-bot is the mk assistant?
+    - template-bot is just the template--keep it thin
+    - marx-bot is the character.ai-ish example
+    - moment-bot reports on moments, handles storytelling about the space
+    - studio-bot does what? gathers stills?
+    - 
+- create CY comp and save CY XMLs
+- 
+- save TDM XMLs
+- English 149SB
+- TDM 98
+- [zk-comic-book-workshop-ideas-001](/mVbPqHFHRmqrMw8aF9B4bg)
+- hackmd api notes: https://hackmd.io/@hackmd-api/developer-portal/https%3A%2F%2Fhackmd.io%2F%40hackmd-api%2Fuser-notes-api
+- system planning: https://hackmd.io/WDxCcd6pRTKd_xd4MCURDg
+- pull message history for single-serving reports (smarter queries)
+- `/hackmd` with function calling and airtable?
+- [mk-system-planning-20231105](/WDxCcd6pRTKd_xd4MCURDg)
+- [mk-project-cards](/JQP4iQRKSeqrFMzcTbP0tQ)
+- [mk-gallery-2023-10](/JFaW2Ns7S7SGaU3nsgpVUw)
+- [mk-planning-20231017-meeting](/bsjXK7FJQ-m247as7-svhg)
+- [mk-moment-bot-steps-20231010-20231013](/IIuCWwEjQraTTsdLl_H_DA)
+- [getting started with vercel postgres](https://vercel.com/docs/storage/vercel-postgres/quickstart)
+- reporting system (and reports) for
+    - AI
+    - Schnapp
+    - Logan
+- system
+    - moment-bot
+    - do-your-work-bot
+    - show-your-work-bot
+    - tdm98-bot
+    - elle-l-bot
+    - marx-bot
+    - network
+    - new recording plan
+    - plans for musicRoom and mainCamStation
+    - 

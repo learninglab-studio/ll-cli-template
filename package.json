@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "clear": "^0.1.0",
+    "dotenv": "^16.3.1",
+    "figlet": "^1.7.0",
+    "openai": "^4.19.0",
+    "yargs": "^17.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "your-command": "cli.js"
+  },
+  "name": "ll-cli-template",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learninglab-studio/ll-cli-template.git"
+  },
+  "author": "mk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learninglab-studio/ll-cli-template/issues"
+  },
+  "homepage": "https://github.com/learninglab-studio/ll-cli-template#readme"
+}

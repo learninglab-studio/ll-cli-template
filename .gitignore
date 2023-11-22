@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+.env*
+.DS_Store
+_output
+_hidden
+_secret
+_tests
